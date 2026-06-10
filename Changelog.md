@@ -1,3 +1,11 @@
+## [2.0.0](https://github.com/AtomiCloud/actions.cache-nuget/compare/v1.1.0...v2.0.0) (2026-06-10)
+
+
+### ✨ Features ✨
+
+* **breaking:** release new major for upgraded sub-actions ([3ea6363](https://github.com/AtomiCloud/actions.cache-nuget/commit/3ea636370574675853f609611eead1667831f9f9))
+* upgrade sub-actions to latest versions ([ed10f63](https://github.com/AtomiCloud/actions.cache-nuget/commit/ed10f636d114ed5e73da327dfd72dc1601a9ea0b))
+
 ## [1.1.0](https://github.com/AtomiCloud/actions.cache-nuget/compare/v1.0.1...v1.1.0) (2025-01-27)
 
 
